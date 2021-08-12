@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+.row {
+  margin-left: 20px;
+  color: white;
+}
+
+.App {
+  background-color: #111;
+}
